@@ -3,3 +3,4 @@ channels:
   - snowflake
 dependencies:
   - polars=*
+  - snowflake-ml-python=*
